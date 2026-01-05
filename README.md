@@ -19,6 +19,8 @@ Desarrollar proyectos que muestren cómo el análisis de datos puede mejorar la 
   *Identificación de productos más vendidos y regiones con mayor demanda usando Python y visualizaciones.*
 - [Categorias de productos con mayor margen de ganacias](Retail-Supply-Chain-Sales-Analysis_Saul_Mata-2.ipynb)  
   *Identificar que categorías son más estratégicas para campañas de marketing y promociones usando Python y visualizaciones.*
+- [Cómo afectan los descuentos al margen de ganancia](Retail-Supply-Chain-Sales-Analysis_Saul_Mata-3.ipynb)  
+  *Identificar como las promociones realmente aumentan la rentabilidad o si reducen la ganancia usando Python y visualizaciones.*
   
 ## 📬 Contacto
 - LinkedIn: www.linkedin/in/saulmataherrera  
