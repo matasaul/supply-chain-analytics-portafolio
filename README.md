@@ -14,6 +14,10 @@ Mi enfoque está en **Supply Chain Analytics**, generando insights que optimizan
 ## 🎯 Objetivo
 Desarrollar proyectos que muestren cómo el análisis de datos puede mejorar la eficiencia en la cadena de suministro, optimizar inventarios y apoyar decisiones estratégicas. 
 
+## 📊 Proyectos Destacados
+- [Análisis de ventas por producto y región](Retail-Supply-Chain-Sales-Analysis_Saul_Mata.ipynb)  
+  *Identificación de productos más vendidos y regiones con mayor demanda usando Python y visualizaciones.*
+
 ## 📬 Contacto
 - LinkedIn: www.linkedin/in/saulmata  
 - Email: matasaul.97@gmail.com 
