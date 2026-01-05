@@ -28,4 +28,3 @@ Desarrollar proyectos que muestren cómo el análisis de datos puede mejorar la 
 - LinkedIn: www.linkedin/in/saulmataherrera  
 - Email: matasaul.97@gmail.com
 
-- ![Rentabilidad por categoría](imagenes/rentabilidad_categoria.png)
