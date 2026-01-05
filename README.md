@@ -2,7 +2,7 @@
 Portafolio de proyectos en análisis de datos y supply chain
 
 ## 👋 Presentación
-**Ingeniero Industrial** con experiencia como **Supervisor de operaciones logísticas y de manufacturas** convertido en **Analista de Datos**.  
+
 Mi enfoque está en **Supply Chain Analytics**, generando insights que optimizan inventarios, logística y eficiencia operativa.
 
 ## 🛠️ Stack Técnico
