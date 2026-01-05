@@ -21,5 +21,5 @@ Desarrollar proyectos que muestren cómo el análisis de datos puede mejorar la 
   *Identificar que categorías son más estratégicas para campañas de marketing y promociones usando Python y visualizaciones.*
   
 ## 📬 Contacto
-- LinkedIn: www.linkedin/in/saulmata  
+- LinkedIn: www.linkedin/in/saulmataherrera  
 - Email: matasaul.97@gmail.com 
