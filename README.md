@@ -17,6 +17,9 @@ Desarrollar proyectos que muestren cómo el análisis de datos puede mejorar la 
 ## 📊 Proyectos Destacados
 - [Análisis de ventas por producto y región](Retail-Supply-Chain-Sales-Analysis_Saul_Mata.ipynb)  
   *Identificación de productos más vendidos y regiones con mayor demanda usando Python y visualizaciones.*
+- [Categorias de productos con mayor margen de ganacias](Retail-Supply-Chain-Sales-Analysis-2_Saul_Mata.ipynb)  
+  *Identificación de productos más vendidos y regiones con mayor demanda usando Python y visualizaciones.*
+  
 
 ## 📬 Contacto
 - LinkedIn: www.linkedin/in/saulmata  
