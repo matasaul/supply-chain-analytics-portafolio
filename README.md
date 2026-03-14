@@ -1,4 +1,4 @@
-# supply-chain-analytics-portafolio
+# supply-chain-analytics
 Portafolio de proyectos en análisis de datos y supply chain
 
 ## 👋 Presentación
